@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    padding-top: 40px;
+    background-color: rgb(34, 203, 250);
+
+}
+
+h1{
+    font-size: 25px;
+    color: crimson;
+    font-weight: 400;
+}
